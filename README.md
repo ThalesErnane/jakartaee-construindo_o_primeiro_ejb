@@ -1,6 +1,4 @@
-# jakartaee-construindo_o_primeiro_ejb
 # EJB com Jakarta EE: API Rest com o servidor WildFly
----
 ## Tópicos abordados no curso:
 
 - Entenda o que são e para quê servem os EJBs
